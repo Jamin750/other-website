@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(50, 155, 155);
+    text-align: center;
+}
+h1 {
+    color:white
+}
+h2{
+    color:white
+}
+h3{
+    color:white
+}
+section{
+    color:white
+}
+strong{
+    color: black
+}
+.tcg{
+    font-size: large;
+    width: 50%;
+    text-align: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    }
